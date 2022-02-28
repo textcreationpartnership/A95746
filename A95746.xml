@@ -1,0 +1,598 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Popes brief: or Romes inquiry after the death of their Catholiques here in England, during these times of warre: discovered by two commissions; the one sent from the Pope that now is: the other from the Bishop and Duke of Cambrey, to severall commissioners in England: whereby the death of such Catholiques may be returned to the See of Rome, to be determined of (as may be fit for the glory of God.) Together with a catalogue of the vicars generall, and archdeacons under the Bishop of Calcedon, for the setling of the popish hierarchy in England. With divers letters concerning the same. Also severall letters and papers of the Lord Inchiquines in Ireland, intercepted by the Earl of Warwick, and sent to the House of Commons; wherein is discovered the ungratefull and perfidious dealing of the said Lord with the Parliament of England. Ordered by the Commons in Parliament, that the said Commissions, together with the Hierarchy, and severall letters and papers intercepted, be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+            <author>Catholic Church. Pope (1623-1644 : Urban VIII)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 20 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95746</idno>
+            <idno type="STC">Wing U128</idno>
+            <idno type="STC">Thomason E77_35</idno>
+            <idno type="EEBO-CITATION">99860645</idno>
+            <idno type="PROQUEST">99860645</idno>
+            <idno type="VID">155571</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155571)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 13X:E77[35])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Popes brief: or Romes inquiry after the death of their Catholiques here in England, during these times of warre: discovered by two commissions; the one sent from the Pope that now is: the other from the Bishop and Duke of Cambrey, to severall commissioners in England: whereby the death of such Catholiques may be returned to the See of Rome, to be determined of (as may be fit for the glory of God.) Together with a catalogue of the vicars generall, and archdeacons under the Bishop of Calcedon, for the setling of the popish hierarchy in England. With divers letters concerning the same. Also severall letters and papers of the Lord Inchiquines in Ireland, intercepted by the Earl of Warwick, and sent to the House of Commons; wherein is discovered the ungratefull and perfidious dealing of the said Lord with the Parliament of England. Ordered by the Commons in Parliament, that the said Commissions, together with the Hierarchy, and severall letters and papers intercepted, be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>Catholic Church. Pope (1623-1644 : Urban VIII)</author>
+                  <author>Inchiquin, Murrough O'Brien, Earl of, 1614-1674.</author>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Parliament. House of Commons. aut</author>
+               </titleStmt>
+               <extent>[2], 37, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edw. Husbands,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Decem. 7. 1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A letter form the Earl of Warwick on p. 31.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Burch, François van der, 1567-1644.</term>
+               <term>Urban, --  Pope, 1568-1644.</term>
+               <term>Catholic Church --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155571:1" rendition="simple:additions"/>
+            <p>The Popes Brief: OR ROMES Inquiry after the death of their <hi>Catholiques</hi> here in ENGLAND, during theſe Times of WARRE: Diſcovered by two Commiſsions; The one ſent from the Pope that now is: The other from the Biſhop and Duke of <hi>Cambrey,</hi> to ſeverall Commiſſioners in <hi>England:</hi> Whereby the Death of ſuch Catholiques may be returned to the See of <hi>Rome,</hi> to be determined of <hi>(As may be fit for the glory of God.)</hi>
+            </p>
+            <p>Together with A CATALOGUE Of the Vicars Generall, and Archdeacons under the Biſhop of <hi>Cal<g ref="char:EOLhyphen"/>cedon,</hi> for the ſetling of the Popiſh Hierarchy in <hi>England.</hi>
+            </p>
+            <p>With divers LETTERS concerning the ſame.</p>
+            <p>Alſo ſeverall <hi>LETTERS</hi> and <hi>PAPERS</hi> Of the Lord <hi>Inchiquines</hi> in <hi>Jreland,</hi> Intercepted by the Earl of <hi>War<g ref="char:EOLhyphen"/>wick,</hi> and ſent to the Houſe of Commons; wherein is diſcovered the ungratefull and perfidious dealing of the ſaid Lord with the Parliament of <hi>England.</hi>
+            </p>
+            <p>ORdered by the Commons in Parliament, That the ſaid Commiſsions, toge<g ref="char:EOLhyphen"/>ther with the Hierarchy, and ſeverall Letters and Papers Intercepted, be forth<g ref="char:EOLhyphen"/>with Printed and publiſhed: <hi>H. Elſynge, Cler. Parl. D. Com.</hi>
+            </p>
+            <p>London, Printed for Edw: Husbands. Decem. 7. 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="correspondence">
+            <pb facs="tcp:155571:2"/>
+            <pb n="1" facs="tcp:155571:2"/>
+            <argument>
+               <p>[Note:] That this Commiſsion, together with a Letter herewith Printed concerning the ſame, was taken at <hi>Great-Yarmouth</hi> in the county of <hi>Norfolk,</hi> amongſt divers other Letters and Papers directed to divers Papiſts in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> from one <hi>Walter Winſor</hi> a Papiſt, who brought the ſame from <hi>Flanders,</hi> as he confeſ<g ref="char:EOLhyphen"/>ſeth in his Examination, on the 26. of Septem<g ref="char:EOLhyphen"/>ber, 1643. which ſaid <hi>Winſor</hi> ſtill remaineth in cuſtody.</p>
+            </argument>
+            <div n="1" type="commission">
+               <head>The Commiſsion.</head>
+               <p>
+                  <hi>
+                     <seg rend="decorInit">F</seg>Rancis Vander Burch,</hi> Dei &amp; Apoſtolicae ſedis gratia Archiepiſcopus &amp; Dux Cameracen, Sac. Rom. Imp. Princeps, Comes Cameraceſii, &amp;c. Executor &amp; Comiſſarius ad infra tam una cum quibuſdam aliis noſtris in hac parte Collegis per litteras Apoſtolicas in vim clauſulae &amp; quemlibet ipſorum ſpecialiter deputatus om<g ref="char:EOLhyphen"/>nibus &amp; ſingulis ad quos praeſentes noſtrae litterae pervenerint, quouſque in fratrum tangit negotium ſeu tangere poterit quomedo libet in futurum, communiter vel diviſim quibuſcunque nominibus conſeantur, aut quacunque praefulgeant dignitate, ſalutem in Do<g ref="char:EOLhyphen"/>mino ſempiternam, &amp; praeſentibus fidem indubiam adhibere no<g ref="char:EOLhyphen"/>ſtriſque,
+<pb n="2" facs="tcp:155571:3"/>imo verius Apoſtolicis obedire mandatis. Litteras San<g ref="char:EOLhyphen"/>cti in Chriſto Patris Domini noſtri, Domini <hi>Urbani</hi> divina pro<g ref="char:EOLhyphen"/>videntia Papae Octavi, nos eum eâ qua decuit reverentiâ recepiſſe noveritis, hujuſmodi ſub tenore. <hi>Urbanus</hi> P. P. Octa<g ref="char:EOLhyphen"/>vus ad futuram rei memoriam Pii<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Dilecti filii Procuratoris Generalis Congregationis Angliae Ordinis Sancti <hi>Benedicti</hi> vo<g ref="char:EOLhyphen"/>tis annuere, id<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>que ſpecialis gratiae favore proſequi volentes &amp; à quibuſvis excommunicationts ſuſpenſionis &amp; interdicti aliiſque Eccleſiaſticis ſententiis, cenſuris &amp; panis â Iure, vel ab homine quà<g ref="char:EOLhyphen"/>vis occaſione vel cauſa latis, ſi quibus quomodolibet imo datus exiſiit ad effectum praeſentium duntaxat conſequendum harum ſerie abſolventes &amp; abſolutum fore conſentes: Supplicationibus ejuſdem Procuratoris Generalis nomine nobis ſuper hoc humiliter porrectis in<gap reason="illegible" resp="#UOM" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>i de venerabilium fratrum noſtrorum <hi>S. R. E.</hi> Cardinalium in total Repulbica a Chriſtiana contra haereticam pravitatem Inquiſitorum generalium ab hac Sancta ſede Apoſto<g ref="char:EOLhyphen"/>licas spectaliter deputatorum conſilio Venerabiles fratres Archi<g ref="char:EOLhyphen"/>epiſcopum Cameracen', ac Andomar' &amp; Ipren' Epiſcopos, &amp; quemlibet ipſorum Apoſtolica auctoritate tenore preſentium ſubro<g ref="char:EOLhyphen"/>gamus in le<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um Ordinariorum in Angli<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> ad effectum tantum modo auctoritate Ordinaria legitimè inſtituendi Proceſſus ſuper cauſa, &amp; genere mortis corum qui pro fide Catholica in Anglia patiuntur, ita ut hujuſmodi proceſſus aliaque acta ab illis, ſeu quilibet ipſorum legitime confecta ad Doctrinas paſſiones, &amp; mor<g ref="char:EOLhyphen"/>tes verificand<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> fiant auctoritate Ordinaria. nec aliter, nec alio mo<g ref="char:EOLhyphen"/>do, irritum &amp; i<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ne decernentes quidquid ſecus ſuper his à qui<g ref="char:EOLhyphen"/>quam ſcienter, vel ignoranter contigerit attentari, Non obſtantibus quatenus opus ſit foelicis recordationis <hi>Bonifacii</hi> Papae Octavi pra<g ref="char:EOLhyphen"/>deceſſoris noſtri de una, &amp; Concilii Generalis de duabus dictis, alii<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que conſtitutionibus &amp; Ordinationibus Apoſtolicis caeteriſque contrariis quibuſcunque. Datum Remae apud Sanctum <hi>Petrum</hi> ſub Annulo Piſcatoris die vigeſima tertia <hi>Februarii,</hi> Anni mil<g ref="char:EOLhyphen"/>leſimi ſexcenteſimi quadrageſimi tertii, Pontificatus noſtri anno vig ſimo, ſignat. <hi>M: A: Maraldus.</hi>
+               </p>
+               <p>Poſt quarum quidem litterarum Apoſtolicarum prae inſertarum praeſentationem &amp; receptionem nobis &amp; per nos, ut praemittitur, factas, ſuimus per Reverendos Dominos, Dominum <hi>Ceorgium Musket</hi> Collegii Anglicani Duaceni Praeſidem, fratrem <hi>Joan<g ref="char:EOLhyphen"/>nem
+<pb n="3" facs="tcp:155571:3"/>Meutiſſe</hi> Conventus Sancti <hi>Gregorii</hi> Magni Benedictino<g ref="char:EOLhyphen"/>rum Anglorum Prierem, &amp; fratrem <hi>Angelum</hi> de Sancto <hi>Fran<g ref="char:EOLhyphen"/>ciſco</hi> Provinciae fratrum <hi>Minorum</hi> in Anglia Commiſſarium, pro parte totius Cleri ſecularis Anglicani Congregationiſque Anglicanae Ordinis Sancti <hi>Benedicti,</hi> &amp; dictae Provinciae fra<g ref="char:EOLhyphen"/>trum <hi>Minorum</hi> debita cum inſtantia requiſiti, quatenus ad ea<g ref="char:EOLhyphen"/>rundem praeinſertarum litterarum Apoſtolicarum &amp; contentorum in eiſdem executionem, juxta traditas ſeu directas à ſede Apo<g ref="char:EOLhyphen"/>ſtolica praeſentia per eaſdem litteras nobis facultatem, formam &amp; auctoritatem procedere Litteraſque noſtras deſuper opportunas concedere vellemus &amp; dignaremur. Nos igitur <hi>Franciſcus Van<g ref="char:EOLhyphen"/>der Burch,</hi> Archiepiſcopus &amp; Dux Cameracen', <hi>S. R.</hi> Imp. Princeps, Comes Cameraceſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i, &amp;c. Executor &amp; Commiſſarius ſubrogatus auctoritate Apoſtolica Praeſentia in locum Ordinariorum in Anglia, attendentes requiſitionem hujuſmodi eſſe juſtam &amp; nationi conſonam, Volenteſque Mandatum Apoſtolicum ſupradi<g ref="char:EOLhyphen"/>ctum nobis in hac parte directum &amp; commiſſum re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erenter exequi, prout tenemur: idcirco auctoritate Apoſtolica nobis commiſſa, &amp; quà fungimur in hac parte, tenore praeſentium committimus &amp; deputamus pro iis qui Londini, vel juxta Trentam fluvium ver<g ref="char:EOLhyphen"/>ſus Londinum in Anglia degunt, Reverendos Dominos D. <hi>Geor<g ref="char:EOLhyphen"/>gium Gage</hi> Prothonotarium Apoſtolicum, P: <hi>Thomas Dade</hi> Or<g ref="char:EOLhyphen"/>dinis Sancti <hi>Dominici</hi> in Doctrina Angliae Provincialem, Pa<g ref="char:EOLhyphen"/>trem <hi>Benedictum Coxium</hi> Congregationis Anglicanae Ordinis Sancti <hi>Benedicti</hi> Presbyterum, P: <hi>Franciſcum Bell</hi> Provinciae fratrum <hi>Minorum</hi> in eadem Anglia Definitorem; Pro iis qui Eboraci, vel ultra Trentam fluvium reſpectu civitatis Londinen<g ref="char:EOLhyphen"/>ſis in ſupradicta. Anglia degunt Reverendiſſimum Dominum <hi>Philippum</hi> ſereniſſimae Reginae Angliae Confeſſarium, ac Reveren<g ref="char:EOLhyphen"/>dos Dominos D. <hi>Georgium Catherick,</hi> P: <hi>Robertum Hado<g ref="char:EOLhyphen"/>kium,</hi> alias <hi>Benſonium,</hi> Provinciae Eboracen', Ordinis Sancti <hi>Benedicti</hi> Exprovinciàlem, ac P. <hi>Gulielmum Andertonum</hi> Or<g ref="char:EOLhyphen"/>dinis Sancti <hi>Franciſci,</hi> Religioſum, lomnes ſimul: &amp; conjunctim ac quemlibet corum diviſim ac ſeparatim in ſolidum ad effe<g ref="char:EOLhyphen"/>ctum legitimè inſtituendi Proceſſus ſuper cauſa, &amp; genere mor<g ref="char:EOLhyphen"/>tis eorum, qui in ſuts reſpective diſtrictibus, hac ultima ſaevi<g ref="char:EOLhyphen"/>ente contra Catholicos ibidem perſecutione pro fide Catholicâ oc<g ref="char:EOLhyphen"/>cubuerunt, dicta auctgritate Apoſtolica mandantes iis ut perſonaliter
+<pb n="4" facs="tcp:155571:4"/>accedant loca, quae prepter hoc fuerint, &amp; erunt accedenda, &amp; evocatis coram ſe perſonis probis ac fide dignis, quae paſſionis ac mortis hujuſmodi Catholicorum notitiam habuerint, de ve<g ref="char:EOLhyphen"/>ritate paſſionis ac mortis corundem formàque cauſis ſcicentiae, &amp; circumſtantiis ad rem facientibus, aliiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ad rei certitudinem requiſitis ſeu alias opportunis praeviis ſolemni juramento diligen<g ref="char:EOLhyphen"/>ter interrogent, audiant, &amp; examinent, earumque perſona<g ref="char:EOLhyphen"/>rum nomina, cognomina, dicta &amp; depoſitiones pertinenter in ſcriptis redigant, &amp; ſic redacta &amp; fideliter clauſa ad nos di<g ref="char:EOLhyphen"/>rigant, ut ea poſtmodum ad ſedem Apoſtolicam tranſmitta<g ref="char:EOLhyphen"/>mus, quatenus de iis quod juſtum fuerit ad Dei gloriam ſtatuat &amp; decernat. Caeterum intendimus &amp; declaramus quod ſi aliquis, vel aliqui dictorum, per nos Deputatorum, per ſeip<g ref="char:EOLhyphen"/>ſum vel ſeipſos, hoc munus perſonalìter praeſtare non potuerit, vel non potuerint, ille vel illi quem vel quos aliquis vel aliqui dictorum Deputatorum ad dictum effectum ſubrogare voluerit, vel voluerint, ſimili omnino poteſtate &amp; Iuriſdictione quam principales &amp; primo Deputati gaudeat vel gaudeant quartus aliquis dictorum Deputatorum vel ab iis ſubrogatorum, alix legitimè impeditis in dicto Proceſſu inſtituendo cum effectu pergat &amp; procedat, &amp; auctoritate noſtra ordinaria per ſedem Apoſtolicam nobis attributa ex nunc prout tunc ipſis hujuſ<g ref="char:EOLhyphen"/>modi tribuimus facultatem. In quorum omnium fidem ac ro<g ref="char:EOLhyphen"/>bur praeſentes per Secretarium noſtrum expeditas noſtris ſigna<g ref="char:EOLhyphen"/>tura ſigilloque communimus.</p>
+               <closer>
+                  <dateline>Datum Cameraci in Palatio noſtro Archiepiſcopali, <date>Anno Domini milleſimo ſexcenteſimo quadrageſimo tertio menſis Junii die decima.</date>
+                  </dateline>
+                  <signed>Franciſcus Vander Burch, Archiepiſcopus Cameracen.</signed>
+                  <hi>De Mandato Illuſtriſſimi &amp; Reveren<g ref="char:EOLhyphen"/>diſſiimi Domini D. Archiepiſcopi &amp; Ducis Cameracen. Patr.</hi>
+                  <signed>Foulon, <hi>Secret.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="commission">
+               <pb n="5" facs="tcp:155571:4"/>
+               <head>5. <hi>October.</hi> 1643.</head>
+               <p>
+                  <hi>FRancis Vander Burch,</hi> By the Grace of God, and of the Apoſtolicall Sea, Archbiſhop and Duke of Cambrey, Prince of the Sacred Romane Empire, Earl of Cambreſis, &amp;c. Agent and Commiſſary for the things hereafter mentioned. Joyntly, and ſeverally, with ſome others in that behalf, by Apoſtolicall Let<g ref="char:EOLhyphen"/>ters eſpecially deputed. To all and ſingular perſons, to whom our preſent Letters ſhall come, and whom the matter herein after mentioned, doth or may con<g ref="char:EOLhyphen"/>cerne, joyntly and ſeverally, by what names ſoever they ſhall be called, or of what dignity and honour they ſhall be of, health everlaſting in the Lord, to give undoubted credit to theſe Preſents, and to obey our, or more truly the Apoſtolicall commands. Know ye, we did receive with that reverence which was meet, the Letters of the moſt Holy Father in Chriſt, our Lord, the Lord <hi>Vrbane,</hi> by the Divine Provi<g ref="char:EOLhyphen"/>dence, the Eight Pope of that name, under this Tenure, Pope <hi>Vrbane</hi> the VIII. for future remembrance of the matter: Being willing to Condeſcend unto the pious deſires of our beloved Son, the Generall Procuratour of the Congregation of <hi>England,</hi> of the order of Saint <hi>Bennet,</hi> and to favour him with a ſpeciall Grace (and by the Order of theſe Preſents abſolving him, and holding him to be abſolved, from whatſoever cenſure of Excommunication, Suſpenſion and Interdict, and all other Eccleſiaſticall Cenſures, and Paines inflicted by Law, or by man: For whatſoever oc<g ref="char:EOLhyphen"/>caſion or cauſe, if in any way, he do lye under any of them, onely for he effecting of theſe Preſents)
+<pb n="6" facs="tcp:155571:5"/>Inclining unto the Petition humbly preſented unto us in that behalfe, in the name of the ſame Generall Pro<g ref="char:EOLhyphen"/>curator, with the Councell of our venerable Brethren, the Cardinals of the holy Roman Church, Inquiſitours Generals, eſpecially deputed by this holy Apoſtolicall Sea in all the Chriſtan Common-wealth againſt Here<g ref="char:EOLhyphen"/>ticall wickedneſſe, by the tenour of theſe preſents, and Apoſtolical authority we ſubſtitute our venerable Bre<g ref="char:EOLhyphen"/>thren the Archbiſhop of <hi>Cambreys</hi> the Biſhops of Saint <hi>Omer</hi> and <hi>Iper,</hi> and every one of them into the place of ordinary in England only to that effect, that they may by ordinary authority according to Law make out Pro<g ref="char:EOLhyphen"/>ceſſe, <hi>To enquire after the cauſe and kinde of death of them that ſuffer in England for the Catholique Faith:</hi> So that ſuch Proceſſe and other Acts lawfully done by them, or any of them, for the clearing of the Truth of ſuch ſufferings and deaths, be done by ordinary authori<g ref="char:EOLhyphen"/>ty, nor otherwiſe, nor in any other manner; Comman<g ref="char:EOLhyphen"/>ding that whatſoever in that behalfe ſhall happen here<g ref="char:EOLhyphen"/>in to be attempted otherwiſe by any man, either wit<g ref="char:EOLhyphen"/>tingly or ignorantly, it ſhall be void and of none effect; Notwithſtanding any uſe that may be made of the Con<g ref="char:EOLhyphen"/>ſtitution of Pope <hi>Boniface</hi> the eight, our Predeceſſor, of moſt happy memory, commonly called <hi>de una,</hi> or that of the Generall Conncell, commonly called <hi>de Duabus,</hi> or any other conſtitutions or Apoſtolicall Ordinances made to the contrary whatſoever. Given at Rome at Saint <hi>Peters</hi> under the King of the Fiſher, the three and twentieth day of February 1643. in the twentieth year of Our Popedome, ſigned <hi>M. A. Maraldus.</hi>
+               </p>
+               <p>After the preſentation and reception of the which Apoſtolicall Letters above written, to Us and by Us
+<pb n="7" facs="tcp:155571:5"/>(as is aboveſaid made) we have been earneſtly and duly required by the Reverend Maſter, Maſter <hi>George Mu<g ref="char:EOLhyphen"/>ſher,</hi> Preſident of the Engliſh Colledge of <hi>Dowey,</hi> Fryer Iohn <hi>Mentiſſe,</hi> Prior of the Covent of Saint <hi>Gre<g ref="char:EOLhyphen"/>gory</hi> the great, of the Engliſh <hi>Benedictins,</hi> and Frier <hi>An<g ref="char:EOLhyphen"/>gell</hi> of Saint <hi>Francis,</hi> Commiſſary of the Province of the Friers Minorites in England, on the behalfe of all the Secular Clergie of England, of the Engliſh con<g ref="char:EOLhyphen"/>gregation of the Order of Saint <hi>Bennet,</hi> and of the ſaid Province of the Friers Minorites, that we would be wil<g ref="char:EOLhyphen"/>ling &amp; vouchſafe to go on in the execution of the ſame above mentioned Apoſtolicall Letters, and of the con<g ref="char:EOLhyphen"/>tents of the ſame, according to the power, manner, and authority, given or ſent to us from the ſaid Apoſtolical Sea by the ſame Letters, and to grant to that end as ne<g ref="char:EOLhyphen"/>ceſſary Letters. We therefore <hi>Francis Vanderburgh</hi> Archbiſhop and Duke of <hi>Cambrey,</hi> Prince of the ſacred Roman Empire, Earle of <hi>Cambreſis,</hi> &amp;c. Agent and commiſſary ſubſtituted by the above-ſaid Apoſtolical Authority into the place of the Ordinaries in <hi>England,</hi> taking into conſideration that ſuch a requeſt is juſt and reaſonable, and willing (with reverence as we ought to do) to put in execution the aboveſaid Apoſtolical com<g ref="char:EOLhyphen"/>mand directed &amp; committed to us in that behalf. Ther<g ref="char:EOLhyphen"/>fore by the Apoſtolicall authority committed to us, &amp; by the authority which we exerciſe in that behalfe; by the Tenure of theſe preſents, we ordaine and depute for them that live at London or on this ſide Trent in England, the Reverend Mrs. M. <hi>George Gage,</hi> Apoſto<g ref="char:EOLhyphen"/>licall Prothonotary, Father <hi>Thomas Dade,</hi> Provinciall of the order of Saint <hi>Dominick,</hi> in England aforeſaid; Father <hi>Bennet Cox,</hi> Prieſt of the Engliſh Congregation of the Order of S. <hi>Bennet,</hi> Father <hi>Francis Bell,</hi> Limitor
+<pb n="8" facs="tcp:155571:6"/>Collector of the Province of the Friers Minorites in England aforeſaid; and for thoſe that live at York, or beyond the River of Trent in England aforeſaid, the Re<g ref="char:EOLhyphen"/>verend Mr. <hi>Phillips</hi> Confeſſor to the moſt gracious Queene of England, and the Reverend Maſters, Maſter <hi>George Cathericke,</hi> Father <hi>Robert Hadock,</hi> alias, <hi>Benſon,</hi> late Provinciall of the Province of Yorke, of the order of S. <hi>Bennet,</hi> and Father <hi>William Anderton</hi> of the order of S. <hi>Francis;</hi> all &amp; every one of them joyntly, ſeverally, and wholly to this purpoſe; that they according to law make preſſe to inquire of the cauſe and kinde of death of them, who in their reſpective Limits, during this laſt fierce perſecution there againſt the Catholickes, have dyed for the Catholick Faith: Commanding them by the ſaid Apoſtolicall Authority, that they do perſonally repaire to ſuch places, as for this purpoſe are or ſhall be to be repaired unto: and that they call before them, ſuch perſons of honeſty and credit, as have knowledge of the ſufferings and deaths of ſuch Catholicks; and that they diligently inquire, heare and examine, upon ſolemne oath, the truth and manner of their ſufferings and deaths, and the cauſe of ſuch their knowledge and ſuch circumſtances pertaining to the ſame and other things requiſite for the diſcovery of the truth of the matter: and that they conveniently put in writing, the names ſirnames, ſayings, and depo<g ref="char:EOLhyphen"/>ſitions of the ſaid perſons, and direct them to us, being ſo diſpoſed, &amp; faithfully cloſed up; <hi>That we may after<g ref="char:EOLhyphen"/>wards tranſmit them to the Apoſtolicall See; to the end that the ſaid See may ordaine and determine of them, that which ſhall bee fit to the glory of God.</hi> Moreover, we intend and declare, That if any one, or ſome of them deputed by us by himſelfe, or by themſelves, cannot
+<pb n="9" facs="tcp:155571:6"/>perſonally performe that office, he or they, whom, one or ſome of the ſaid deputed perſons ſhall or will ſubſti<g ref="char:EOLhyphen"/>tute to that effect; he or they ſo ſubſtituted, ſhall enjoy the very like power &amp; juriſdiction, as they which were principally and firſt deputed doe enjoy: To that end, that any one of the ſaid deputies or their ſubſtitutes, the reſt having lawfull excuſe of abſence, may proceed and go on with effect in the execution of theſe preſents, and by our ordinary authority given unto us by the A<g ref="char:EOLhyphen"/>poſtolicall See from this time forth wee grant unto them ſuch power; for teſtimony and credit whereof we have authorized with our hand and ſeale theſe preſents: Diſpatched by our Secretary.</p>
+               <closer>
+                  <dateline>Given at <hi>Cambrey</hi> in our Archiepiſcopall Palace in the yeare of our Lord 1643. <date>
+                        <hi>Tenth of June</hi>
+                     </date>
+                  </dateline>
+                  <signed>FRANCIS VANDER BURGH, Archbiſhop of <hi>Cambrey,</hi>
+                  </signed>
+By the command of the moſt Illuſtrious and Reve<g ref="char:EOLhyphen"/>rend Lord, the Lord Archbiſhop and Duke of <hi>Cam<g ref="char:EOLhyphen"/>brey</hi> aforeſaid. <signed>
+                     <hi>Foulin</hi> Secretary.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <pb n="10" facs="tcp:155571:7"/>
+               <argument>
+                  <p>This Figure of a Croſſe <g ref="char:cross">✚</g> was on the top of the Letter.</p>
+               </argument>
+               <opener>
+                  <salute>Very much reſpected Sir,</salute>
+               </opener>
+               <p>SEEing that I was to write unto you obout the buſi<g ref="char:EOLhyphen"/>neſſe contained in the incloſed Commiſſion; I was alſo commanded by my Maſter (who is altogether unknown unto you) to let you underſtand, that the Bea<g ref="char:EOLhyphen"/>rer (who is the Foreman of his ſhop) is ſent to the party with Letters from Mr. <hi>Iozelin</hi> (the which he is to im<g ref="char:EOLhyphen"/>part unto you) and with Letters from himſelfe, to the Parents of ſome young men, who are Prentiſes here; ex<g ref="char:EOLhyphen"/>pecting to heare their reſolutions before they can be<g ref="char:EOLhyphen"/>come Free men. I hope that you will find him to be a fit man for both imployments (if you would be pleaſed to aſſiſt him with the beſt advice whiles he is a ſtranger amongſt you) peradventure you will ſtartle at the ſight of the incloſed Commiſſion, conſidering how the times go now in thoſe parts, and to how little purpoſe it is to medle in affairs of that nature. But if you pleaſe to know the true reaſons and motives why I ſent it now, I doubt not but that you will reſt ſatisfied. The firſt is becauſe I had now an extraordinary good opportunity to ſend it ſafely by a known friend, who would have a ſpecial care to ſee it conveighed unto you, with thoſe ſmall directi<g ref="char:EOLhyphen"/>ons it hath; which none could make any uſe of, (in caſe it ſhould fall into their hands) but only the Bearer: and if I ſhould not have ſent it now by him, the directions muſt have beene ſuch as might have brought you into ſome queſtion, if my Letters had been intercepted.</p>
+               <p>The ſecond and principall reaſon is, becauſe the Pope
+<pb n="11" facs="tcp:155571:7"/>is old and ſickly, and ſo is the Archbiſhop of Cambrey, and if either of them dye before the mattet be begun by one or other, the grace would be of no force: and if any of the three named in it do but call any one Catholike man and take ſuch information as hee can give of the martyrdome of Father <hi>Ambroſe,</hi> and record them be<g ref="char:EOLhyphen"/>fore witneſſe, the grace will be of ſuch force that wee may make uſe of it, any time theſe thirty or forty years following, when the ſaid parties are dead. Therefore I beſeech you excuſe me for having ſent it unto you: and for Gods ſake commend it preſently to ſome of the par<g ref="char:EOLhyphen"/>ties named in it, or to be named by them, to ſee the mat<g ref="char:EOLhyphen"/>ter begun, as I have ſaid, and then to be kept in great ſe<g ref="char:EOLhyphen"/>crecy till we ſee better times.</p>
+               <closer>
+                  <salute>Thus in haſte I bid you fare-well.</salute>
+                  <date>
+                     <hi>Auguſt</hi> 17. 1643.</date>
+                  <signed>Your true Friend, <hi>B. B.</hi>
+                  </signed>
+               </closer>
+               <argument>
+                  <p>This Letter was intercepted with the former Com<g ref="char:EOLhyphen"/>miſſion, with divers other Letters to Papiſts in England.</p>
+               </argument>
+            </div>
+         </div>
+         <div type="correspondence">
+            <pb n="12" facs="tcp:155571:8"/>
+            <head>A CATALOGVE OF The Vicars Generall and Arch-Deacons in ENGLAND, under the Biſhop of <hi>CALCEDON.</hi>
+            </head>
+            <div type="part">
+               <head>Vicars Generall conſtituted, by the moſt Reverend <hi>RICHARD</hi> Lord Biſhop of <hi>CALCE<g ref="char:EOLhyphen"/>DON,</hi> By the Letters dated the firſt of <hi>JUNE, 1625.</hi>
+               </head>
+               <p>MAſter <hi>John Colleton</hi> Epiſcopall Vicar in the eleven Provinces under-written,<note place="margin">Two moneths after nis Ma<g ref="char:EOLhyphen"/>jeſty came to the Crowne.</note> Eſſex, Suf<g ref="char:EOLhyphen"/>folk, Norfolk, Cambridge, and the Iſle of Elv, Bedford, Buckingham, Middleſex, and Hartford, The City of London, and the Suburbs, and the City of Weſtminſter.</p>
+               <p>To Maſter <hi>John Colleton,</hi> being diſabled through old age, is added, as a Coadjutor, Maſter <hi>Gregory Fiſher,</hi> alias <hi>Muſcot,</hi> Arch-Deacon of Surrey and Middleſex, by the letters bearing date the tenth of February, 1626. by the moſt Reverend <hi>Richard</hi> Lord Biſhop of <hi>Cal<g ref="char:EOLhyphen"/>cedon.</hi>
+               </p>
+               <p n="2">2. <hi>Edward Bennet</hi> Epiſcopall Vicar in the ſixteen Provinces under written, <hi>viz.</hi> Walesboth South and North parts, the Iſle of Angleſey, Hereford, Shrop<g ref="char:EOLhyphen"/>ſhire, and Cheſter.</p>
+               <pb n="13" facs="tcp:155571:8"/>
+               <p n="3">3. Maſter <hi>John Boſtile.</hi> Doctor of Divinity, Epiſ<g ref="char:EOLhyphen"/>copall Vicar in the five Provinces under-written, Ox<g ref="char:EOLhyphen"/>ford, Warwick, Northampton, Stafford, &amp; Worceſter.</p>
+               <p n="4">4. Maſter <hi>Broughton,</hi> Epiſcopall Vicar in the ſeven Provinces under-written, Huntington, Rutland, Lin<g ref="char:EOLhyphen"/>coln, Leiceſter, Nottingham, Darby, and York.</p>
+               <p n="5">5. Maſter <hi>Iohn Iackſon,</hi> Epiſcopall Vicar in the ſix Provinces under-written. Dorceſter, Wiltſhire, Glou<g ref="char:EOLhyphen"/>ceſter Somerſet-ſhire, Devonſhire and Cornwall.</p>
+               <p n="6">6. Mr. <hi>Cuthbert Trollop,</hi> Epicopall Vicar in the five Provinces under-written. Lancaſter, Northumber<g ref="char:EOLhyphen"/>land, Cumberland, Weſtmerland, and the Biſhopricke of Durham.</p>
+               <p n="7">7. Maſter <hi>Be<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>iamin Norton</hi> Epiſcopall Vcar in the five Provinces under-written. Kent, Surrey, Suſſex, Hampſhire and Barkſhire.</p>
+            </div>
+            <div type="part">
+               <head>Arch-Deacons and their Provinces.</head>
+               <p n="1">1. Maſter <hi>Iohn Colleton</hi> Arch Deacon in the County of Kent.</p>
+               <p n="2">2. Maſter <hi>Arthur Pits</hi> Arch-Deacon of the Cities of London, Weſtminſter, and the Suburbs.</p>
+               <p n="3">3. Maſter <hi>Iohn Boſtile,</hi> Doctor of Divinity, Arch-Deacon in the Counties of Warwick and Leiceſter.</p>
+               <p n="4">4. Mr. <hi>Edward Bennet</hi> Arch-Deacon in the Counties of Buckingham and Bedford.</p>
+               <p n="5">5. Mr. <hi>Thomas wright</hi> Doctor of Divinity, Arch-Deacon in the Counties of Norfolk, Cambridge, and the Iſle of Ely.</p>
+               <pb n="14" facs="tcp:155571:9"/>
+               <p>To Doctor Thomas Wright, now reſident in the parts beyond Sea, is conſtituted as a coadjutor, Maſter <hi>Eliſha Brabant,</hi> by the Letter of the moſt Reverend Lord, <hi>Ri<g ref="char:EOLhyphen"/>chard</hi> Biſhop of <hi>Calcedon,</hi> dared the 11. of Febr. 1626.</p>
+               <p n="6">6. Maſter <hi>Richard Broughton</hi> Arch-Deacon in the counties of Huntington, Rutland, Lincolne.</p>
+               <p n="7">7. Maſter <hi>Iohn Iackſon</hi> Arch-Deacon in the coun<g ref="char:EOLhyphen"/>ties of Wiltſhire and Hampſhire.</p>
+               <p n="8">8. Maſter <hi>Cuthbert Trollop</hi> Arch-Deacon in the coun<g ref="char:EOLhyphen"/>ties of Northumberland and Biſhoprick of Durham.</p>
+               <p n="9">9. Maſter <hi>Roger Strickland</hi> Arch-Deacon in the county of York.</p>
+               <p n="10">10. Maſter <hi>Iohn Mitchell</hi> Arch-Deacon in the coun<g ref="char:EOLhyphen"/>ty of Lancaſter.</p>
+               <p>To Maſter <hi>Iohn Mitchel,</hi> weak through old age, is con<g ref="char:EOLhyphen"/>ſtituted as a coadjutor, Maſter <hi>Iohn Redman,</hi> by the Let<g ref="char:EOLhyphen"/>ters of the moſt Reverend <hi>Richard</hi> Lord Biſhop of <hi>Cal<g ref="char:EOLhyphen"/>cedon,</hi> dated the tenth of February, 16.26.</p>
+               <p n="11">11. <hi>Ioſeph Heynes</hi> Arch-Deacon in the county of Eſſex, and Suffolk. To which <hi>Heynes.</hi> Maſter <hi>Iohn Southcot</hi> Doctor of Divinity is coadjutor.</p>
+               <p n="12">12. <hi>Richard Button</hi> Arch-Deacon in the counties of Stafford and Cheſter.</p>
+               <p n="13">13. <hi>Humphrey Hanmer</hi> Arch-Deacon in the counties of South-Wales and Hereford. To whom ſucceeded Mr. <hi>Guin.</hi>
+               </p>
+               <pb n="15" facs="tcp:155571:9"/>
+               <p n="14">14. <hi>Matthew Britton</hi> Doctor of Divinitie Archdeacon in the Counties of <hi>Weſtmerland</hi> and Cumberland.</p>
+               <p n="15">15. Maſter <hi>George Fiſher</hi> Archdeacon in the Counties of <hi>Midleſex</hi> and <hi>Surrey.</hi>
+               </p>
+               <p n="16">16. Maſter <hi>Humphrey Hughes</hi> Archdeacon in the County of North-Wales.</p>
+               <p n="17">17. Maſter <hi>Thomas Moore</hi> Archdeacon in the Coun<g ref="char:EOLhyphen"/>ties of <hi>Hartford</hi> and <hi>Northampton.</hi>
+               </p>
+               <p n="18">18. Maſter <hi>Thomas Morton</hi> Archdeacon in the Coun<g ref="char:EOLhyphen"/>ties of Devonſhire, <hi>Cornwall,</hi> and <hi>Glouceſter.</hi>
+               </p>
+               <p n="19">19. Maſter <hi>William Shilley</hi> Archdeacon in the Coun<g ref="char:EOLhyphen"/>ty of <hi>Suſsex.</hi>
+               </p>
+               <p>To him ſucceeded <hi>M.</hi> Lane.</p>
+               <p n="20">20. Maſter <hi>Anthony Teuchnor</hi> Archdeacon in the Counties of (<hi>Oxford</hi> and Barkeſhire).</p>
+               <p n="21">21. Maſter <hi>John Merricke</hi> Archdeacon in the Coun<g ref="char:EOLhyphen"/>ties of (Shropſhire and <hi>Worceſter</hi>).</p>
+               <p>To him ſucceeded <hi>M.</hi> Hyde.</p>
+               <p n="22">22. Maſter <hi>Thomas Manger</hi> Archdeacon in the Coun<g ref="char:EOLhyphen"/>ties of (<hi>Sommerſet</hi> and Dorſet-ſhire).</p>
+               <p n="23">23. Maſter <hi>Thomas Worthington</hi> Archdeacon in the Counties of (<hi>Notingham</hi> and <hi>Darbie</hi>).</p>
+            </div>
+            <div type="part">
+               <pb n="16" facs="tcp:155571:10"/>
+               <head>The new diviſion of the Provinces, of the Vicaries and of the Archdeacons, with the number of the Arch<g ref="char:EOLhyphen"/>deaconries, contained in every one of the Vicarſhips.</head>
+               <p n="1">1. The firſt Vicarſhip containes ſeaven Counties or Provinces, <hi>viz. Cornwall, Devonſhire, Somerſetſhire, Wilt<g ref="char:EOLhyphen"/>ſhire, Glouceſterſhire, Hampſhire,</hi> and it hath under it, three Archdeaconries.</p>
+               <list>
+                  <item>1. <hi>Cornwall Devonſhire</hi>
+                  </item>
+                  <item>2. <hi>Somerſetſhire Dorſetſhire</hi>
+                  </item>
+                  <item>3. <hi>Wiltſhire Glouceſterſhire Hampſhire</hi>
+                  </item>
+               </list>
+               <p n="2">2. The ſecond Vicariate containes ſeven Counties, <hi>Viz. Midleſex</hi> with the City of <hi>London</hi> and City of <hi>VVeſtminſter, Kent, Suſsex, Surrey, Barkeſhire, Eſsex,</hi> and <hi>Hartfordſhire,</hi> and it hath foure Archdeaconries,
+<list>
+                     <item>1. <hi>London Middleſex</hi>
+                     </item>
+                     <item>2. <hi>Surrey Barkeſhire</hi>
+                     </item>
+                     <item>3. <hi>Kent Suſſex</hi>
+                     </item>
+                     <item>4. <hi>Eſsex</hi> and <hi>Hartford</hi>
+                     </item>
+                  </list>
+               </p>
+               <p n="3">3. The third Vicariate containes five Counties, <hi>viz. Bedfordſhire, Huntingtonſhire, Cambridgeſhire</hi> with the Iſle of <hi>Ely</hi> and with the part of the Province of <hi>Lincolnſhire</hi> which is called <hi>Holland</hi> and <hi>Norfolke</hi> and out of that part which is called <hi>Marſhland</hi> and <hi>Suffolke;</hi> And it hath three Archdeaconries.</p>
+               <list>
+                  <item>1. <hi>Bedford Huntington</hi>
+                  </item>
+                  <item>2. <hi>Suffolke Norfolke</hi>
+                  </item>
+                  <item>3. <hi>Ca<g ref="char:cmbAbbrStroke">̄</g>bridge</hi> with the Iſle of <hi>Ely, Holland,</hi> &amp; <hi>Marſhland.</hi>
+                  </item>
+               </list>
+               <p n="4">4. The fourth Vicariate containes eight Counties,
+<pb n="17" facs="tcp:155571:10"/>
+                  <hi>viz. Oxford, Buckingham, Northampton, Leiceſter, Stafford, Warwicke, worceſter</hi> and <hi>Cheſter,</hi> and hath foure Arch-deaconries.</p>
+               <list>
+                  <item>1. <hi>Oxford Buckingham</hi>
+                  </item>
+                  <item>2. <hi>Northampton Leiceſter.</hi>
+                  </item>
+                  <item>3. <hi>VVorceſter. Warwicke.</hi>
+                  </item>
+                  <item>4. <hi>Stafford Cheſter.</hi>
+                  </item>
+               </list>
+               <p n="5">5. The fifth Vicariate containes fiveteen Counties, <hi>viz.</hi> North-<hi>Wales,</hi> South-<hi>VVales</hi> with the Iſle of <hi>Angle<g ref="char:EOLhyphen"/>ſey, Hartford,</hi> and <hi>Shropſhire,</hi> and it hath three Archdea<g ref="char:EOLhyphen"/>conries.</p>
+               <p n="1">1. North-<hi>Wales</hi> with the Iſle of <hi>Angleſey, Mountgome<g ref="char:EOLhyphen"/>rie, Merioneth, Denbigh, Flint, Carnarvan.</hi>
+               </p>
+               <p n="2">2. <hi>Monmouth, Clamorgan, Radnar, Cardigan, Carmar. then,</hi> and <hi>Pembrooke.</hi>
+               </p>
+               <p n="3">3. <hi>Hereford</hi> and <hi>Shropſhire.</hi>
+               </p>
+               <p n="6">6. The ſixth Vicariate containes five Counties, <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1. <hi>Yorkeſhire.</hi>
+                  </item>
+                  <item>2. <hi>Darbiſhire Nottingham</hi>
+                  </item>
+                  <item>3. <hi>Lincolne Rutland</hi>
+                  </item>
+               </list>
+               <p n="7">7. The ſeaventh Vicariate containes five Counties <hi>Lancaſhire, Weſtmerland, Cumberland, Northumberland,</hi> and the Biſhopricke of <hi>Durham,</hi> and it hath three Arch. deaconries.</p>
+               <list>
+                  <item>1. <hi>Lancaſhire.</hi>
+                  </item>
+                  <item>2. <hi>Weſtmerland Cumberland</hi>
+                  </item>
+                  <item>3. <hi>Northumberland</hi> &amp; the Biſhoprick of <hi>Durham</hi>
+                  </item>
+               </list>
+               <p>According to the preſent diviſion there are ſeaven Vi<g ref="char:EOLhyphen"/>carſhips and three and twenty Archdeaconries, <hi>viz.</hi> Two more then there were heretofore ordained. That if it
+<pb n="18" facs="tcp:155571:11"/>doth not ſeeme good to multiply the number of the Archdeacons, the preſent diviſion may be ſo ordained that <hi>Cheſhire</hi> and <hi>Staffordſhire</hi> ſhall be taken from the fourth Vicarſhip, and the Archdeanerie of <hi>Worceſter,</hi> and <hi>Warwickeſhire,</hi> ſhall be added thereunto, and <hi>Cheſhire</hi> ſhall be ioyned to the Archdeanerie of North-<hi>Wales</hi> or <hi>Lan<g ref="char:EOLhyphen"/>caſhire,</hi> and ſo ſhall belong to the fifth or ſeaventh Vi<g ref="char:EOLhyphen"/>carſhip.</p>
+               <argument>
+                  <p>A Committee of Parliament ſitting at <hi>Rocheſter,</hi> inter<g ref="char:EOLhyphen"/>cepted the foreſaid Catalogue and divers other letters and papers herewith printed, as they were carrying to the Biſhop of <hi>Chalcedon,</hi> for the nominating ſuch per<g ref="char:EOLhyphen"/>ſons to fill up vacant places in <hi>England</hi> as his Lordſhip ſhall thinke fit.</p>
+               </argument>
+            </div>
+            <div type="letter">
+               <pb n="19" facs="tcp:155571:11"/>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>I Send you all the incloſed open, that ere you deliver them to my Lord, you may if you pleaſe take Copies of them, or at leaſt be able to ſuggeſt unto his Lordſhip the ordering of his Secretary to copy out, and keepe ſafe ſuch Records as we are in danger here to loſe, and cannot miſſe without great prejudice to our Clergy.</p>
+               <p>You have herein what light and aſſiſtance we can give you to<g ref="char:EOLhyphen"/>wards filling up the Chapter, in caſe you perſiſt in that reſolution in theſe confuſed times, which perhaps conſidering my Lords age were not amiſſe to diſpatch, if not before, at leaſt as ſoone after the election of a Coadjutor as may be, leſt his Lordſhip die before it be done, for we were better have it done leſſe compleatly before his Lordſhips death then not at all, and this cogitation hath ac<g ref="char:EOLhyphen"/>curred ſince I writ the former Papers, wherein was ſome doubt made about the point, eſpecially in the long Letter I had written to you before this ſetting downe the preſent ſtate of your Chapter, and certifying who are living thereof, who Dead, wherein are ſome things neceſſary perhaps to ſhew my Lord what ere the whole Letter it ſelfe be, which I referre unto your diſcretion, be<g ref="char:EOLhyphen"/>cauſe I had no notice from his Lordſhip of filling up all the vacant Places in the Chapter, only of adding ſome more Canons there<g ref="char:EOLhyphen"/>unto.</p>
+               <p>As I had written thus farre, I received yours of this weeke, and by good fortune Maſter <hi>Herbert</hi> was actually with Maſter <hi>Webſter</hi> at the ſame time; ſo after he had read your Letter to him, and heard how earneſtly Mr. <hi>Webſter</hi> moved not to reſiſt his Brethrens Election, in caſe your ſelfe may not comply with the place, hee at laſt conſented to ſubmit to what his Brethren ſhould finally con<g ref="char:EOLhyphen"/>clude upon, deſiring firſt, that they adviſe againe about your ſelfe, if there be any probabilitie with you to comply with the Place, if not, you ſee by his conſent our buſineſſe is at an end, for he hath (in caſe you faile) all the Votes there, and here of thoſe that are to Vote herein; as alſo he hath Maſter <hi>Benſons</hi> of <hi>Doway,</hi> and doubt<g ref="char:EOLhyphen"/>leſſe will have moſt, if not all, of our Brethren in the Countries, who are not yet conſulted about this affaire, but ſhall be ſpeedily.</p>
+               <p>The ſaid News of Mr. <hi>Montague</hi> being taken at <hi>Rochester,</hi>
+                  <note place="margin">
+                     <hi>Mr.</hi> Montague</note> and
+<pb n="20" facs="tcp:155571:12"/>preparation for him in the Tower doth much afflict his friend<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and will be as unwelcome to you, as to any man living. This night the <hi>Count de Harecourt</hi> is expected in Towne; I beſeech you excuſe me at this time to Maſter <hi>Clifton,</hi> you ſee I have been over<g ref="char:EOLhyphen"/>charged with the incloſed, and pray tell my Lord I had not time to write faire thoſe Lights I ſend him for <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Chapter be<g ref="char:EOLhyphen"/>ſides they are not ſo perfect as were requiſite if we had more time, but if his Lordſhip will give longer time, he ſhall have it more ex<g ref="char:EOLhyphen"/>act. The ninth Canon now I perceive was Maſter <hi>Herbert;</hi> excuſe, if what I writ before in that be obſcure or leſſe exact, for I have no time to rectifie it, you may eaſily mend all Errours therein by what is written otherwiſe about this buſineſſe of the Chapter.</p>
+            </div>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>ACcording to your deſire, and my promiſe, I now ſend you the ſtate of our preſent Chapter, together with ſuch Patents as will be neceſſary for the filling up thereof, with a parti<g ref="char:EOLhyphen"/>cular of how many thereof are dead, and with ſuch a note (as up on ſo ſhort a warning could be gotten) of names to fill it up a<g ref="char:EOLhyphen"/>gaine, as have been by thoſe of the Chapter in <hi>London</hi> reflected on, for ſuch was your deſire.</p>
+               <p>The Copies of the Patents are ſuch as Maſter <hi>Lovell</hi> left me, and I ſnall deſire that you will cauſe them to be kept there in ſafetie, leſt thoſe I have here ſhould in theſe troubleſome times miſcarry. I could wiſh you had alſo there other Copies of things moſt ne<g ref="char:EOLhyphen"/>ceſſary, which I find here handſomely recorded in Bookes by Ma<g ref="char:EOLhyphen"/>ſter <hi>Lovell,</hi> God reſt his ſoule; but truly I am ſo ill, I cannot my ſelfe tranſcribe them, and to truſt them out of my hands in the<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> times to Scribes, I dare not, and ſpare the Booke I cannot, ſo I muſt hope God will protect them and us his ſervants, whom they concerne.</p>
+               <p>You will perceive by the Copie of the Catalogues of Vicars and Archdeacons which Maſter Lovell left, as I now ſend them to you tranſcribed, that there have bin two diviſions of the Counties, in the firſt there appeare 55. in the laſt but 53, Counties of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:155571:12"/>diſtributed unto the care of 7. Vicars Generall, and of 23. Arch<g ref="char:EOLhyphen"/>deacons out of which number of Archdeacons you muſt deduct but 7. foraſmuch as the 7. Vicars Generall not being (as Vicars) of the Chapter were made each of them Archdeacons purpoſely to render them Chapter men alſo, ſo that how are the number of Archdeacons be 23. yet deducting 7. out of that number, as ap<g ref="char:EOLhyphen"/>propriate to the 7. Vicars you will find remaining only 16. Arch<g ref="char:EOLhyphen"/>deacons, I meane ſuch as are purely Archdeacons, and not Vicars to boote; And yet by the Note of Maſter <hi>Lovells</hi> at the end of the new Diviſion, me thinkes there was an intention to have only 22. Archdeacons in all, or to ſpeake perhaps more properly to the Bi<g ref="char:EOLhyphen"/>ſhops intention, but 22. Chapter-men. Yet I find that either you muſt increaſe the former diſtricts of ſome Archdeacons, of elſe you will not exhauſt the Counties in the diſtribution thereof, for you ſhall not find the Counties of <hi>Nottingham</hi> nor <hi>Darby</hi> appropria<g ref="char:EOLhyphen"/>ted to any Archdeacon, unleſſe you reſolve the number of 23. ſhall ſtand good. An perhaps that number was reduced to 22. only in the laſt Diviſion upon reflection that the ſeventh Vicar <hi>viz.</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Norton</hi> was not made Archdeacon, that I can find upon any Record, and I ſend you all I have of this nature, ſo that my Lord and you of the Chapter there, muſt pleaſe to reſolve whether there ſhall be any Vicar Generall without the Title of Archdeacon, and ſo let the firſt number of 23. Archdeacons ſtand good, or whether all the ſeven Vicars ſhall be Archdeacons, and then the laſt Diviſi<g ref="char:EOLhyphen"/>on of Archdeacons into 22. to remaine. It ſeemes here moſt con<g ref="char:EOLhyphen"/>ſonant to reaſon, to make each Vicar Generall an Archdeacon, but what you there reſolve will be here allowed of, but you ſhall doe well to appropriate ſuch Counties to each Vicar and Archdeacon, as may be moſt convenient for them to repaire unto, which will be ahard matter to determine in theſe unſetled times.</p>
+               <p>And hence you will perceive that by the Addition of Canons to the Chapter, which you know were added but lately, that with<g ref="char:EOLhyphen"/>out filling up the places of the old Chapter-men deceaſed, you will have as great a number almoſt of Chapter men now living to chooſe a Coadjutor to the Deane (which is the preſent affaire in agitation) as would have been if all the dead perſons vacant pla<g ref="char:EOLhyphen"/>ces were filled up before the Election of this Coadjutor, ſo that if
+<pb n="22" facs="tcp:155571:13"/>the deſire of filling the Chapter proceed out of a feare that there will want a competent number of Chapter-men to make this Ele<g ref="char:EOLhyphen"/>ction, conſidering the late Addition of Canons to the Chapter with power of voting in all affaires of the Clergy, there will be no want of almoſt as full a number as ever were of the Chapter ſince it was firſt erected.</p>
+               <p>For you ſee there never were above two or three and twenty at moſt of the Chapter, and albeit moſt of them that were Vicars and Archdeacons be dead; nevertheleſſe thoſe that are living to<g ref="char:EOLhyphen"/>gether with the Canons lately added thereunto, amount to the number of twentie, as I wrote you word laſt weeke; onely I for<g ref="char:EOLhyphen"/>got then to tell you, that one of the ſix whom I reckoned upon to be in <hi>Paris, viz.</hi> Maſter <hi>Laborne,</hi> is neither of the Chapter in ver<g ref="char:EOLhyphen"/>tue of Vicar, Archdeacon, or Canon, that I can find upon any Record, but this I impute to an Accident of his being out of the way at <hi>Tame</hi> when the Canons were made, and ſo I reckon upon him as if he were a Chapter-man, the rather becauſe he was, and is ſtill one of his Lordſhips Conſult, which may perhaps <hi>ipſo facto,</hi> give him that quality,<note place="margin">The whole Chapter in the nature of a Counſell to Doctor <hi>Rich. Smith</hi> titular Biſhop of <hi>Chalcedon</hi> and Ordinarie of <hi>England</hi> and <hi>Scotland</hi> by Commiſſion from the Pope.</note> in regard the whole Chapter hath the na<g ref="char:EOLhyphen"/>ture of his Lordſhips Counſell.</p>
+               <p>But now to come unto the particulars, who are dead of the Chapter, and who now living thereof, that ſo you may ſee cleerely in the particulars what I tell you of our Chapter in generall, you may pleaſe to underſtand, that of the Vicars Generall who were at moſt in number but ſeven, there are five dead, <hi>viz.</hi> Maſter <hi>Colleton,</hi> Mr. <hi>Bennet,</hi> Mr. <hi>Boſwill,</hi> Mr. <hi>Broughton,</hi> Mr. <hi>Norton,</hi> ſo that you muſt thinke of Conſtituting five Vicars, for however Maſter <hi>Muſcot</hi> was made coadjutor to Maſter <hi>Colleton,</hi> yet he is now in a charge by the Popes command incompatible with that office of Vicar Generall in Maſter <hi>Broughtons</hi> place, whoſe reſi<g ref="char:EOLhyphen"/>dence he poſſeſſeth, yet I doe not conceive that hee was ever made Vicar Generall by Patent.</p>
+               <p>Now for the Vicars actually living, you will eaſily ſee they are but two, <hi>viz.</hi> Maſter <hi>Iackſon,</hi> and Maſter <hi>Trollop,</hi> who had need of a Coadjutor, being himſelf grown unable to travell as you all know,</p>
+               <p>As for the Archdeacons, there are dead five in the five Vicars, and of ſuch as were purely Archdeacons and no more, there are
+<pb n="23" facs="tcp:155571:13"/>dead beſides Maſter <hi>Muſcot</hi> (whoſe place is vacant though he bee living) ten, <hi>viz.</hi> Maſter <hi>Pits,</hi> Doctor <hi>Wright</hi> and his ſucceſſor <hi>Brabant,</hi> Maſter <hi>Strickland,</hi> Maſter <hi>Heines</hi> and his ſucceſſor Doctor <hi>Lovell,</hi> Maſter <hi>Hanmer</hi> and his ſucceſſor Mr. <hi>Guin,</hi> as alſo the in<g ref="char:EOLhyphen"/>tended ſucceſſor to him, Maſter <hi>Robert Hughes</hi> lately, Doctor <hi>Brit<g ref="char:EOLhyphen"/>ton,</hi> Maſter <hi>More,</hi> Maſter <hi>Martine,</hi> Mr. <hi>Tushenor</hi> and his ſucceſ<g ref="char:EOLhyphen"/>ſor Mr. <hi>Aſton,</hi> and Mr. <hi>Worthington.</hi>
+               </p>
+               <p>I doe not accompt Mr. <hi>Shellyes,</hi> nor Mr. <hi>Merricks</hi> places va<g ref="char:EOLhyphen"/>cant, by reaſon Mr. <hi>Lane</hi> and Mr. <hi>Hide</hi> (ſurviving both) doe ſup<g ref="char:EOLhyphen"/>ply them, but whether by Patents created Archdeacons or not I cannot ſay, or whether by Deputation only they execute the ſame, which in effect I account is all one.</p>
+               <p>So that here are undoubtedly to be <hi>de novo,</hi> created ten Arch<g ref="char:EOLhyphen"/>deacons to fill up the places vacant by death, and more to ſupply Mr. <hi>Muſcots</hi> place yet living as aboveſaid.</p>
+               <p>Now for the living Archdeacons they are in number two, in the two Vicars above, and foure that are purely Archdeacons by Pa<g ref="char:EOLhyphen"/>tents undoubted, <hi>viz.</hi> Maſter <hi>Redman,</hi> Maſter <hi>Button,</hi> Mr. <hi>Hughes,</hi> and Maſter <hi>Manger,</hi> whereunto if you adde the ſuppliants (at leaſt) living, Maſter <hi>Hide</hi> and Maſter <hi>Lane,</hi> then are there ſix Archdea<g ref="char:EOLhyphen"/>cons living.</p>
+               <p>As for Canons there were Created (as I remember) nine at the firſt, and they are all living ſtill, <hi>viz.</hi> Maſter <hi>Blaclo,</hi> Maſter <hi>Har<g ref="char:EOLhyphen"/>rington,</hi> Maſter <hi>Holden,</hi> Mr. <hi>Fitton,</hi> Maſter <hi>Clifford,</hi> Maſter <hi>Morgan,</hi> Maſter <hi>Curtes,</hi> Maſter <hi>Gage,</hi> and Mr. <hi>Herbert;</hi> for I have now no convenience to come at ſuch Records as doe ſhew this, perhaps your memory will tell you this better then mine, or elſe then Ma<g ref="char:EOLhyphen"/>ſter <hi>Hide</hi> was made Canon, and not Maſter of which you ſhall know the certaintie ere long; but however thus you ſee what with two Vicars living, ſix Archdeacons, and nine Canons, and the Deane, there are eighteen perſons of the Chapter now li<g ref="char:EOLhyphen"/>ving; or take the Deane and at leaſt five Archdeacons, and nine pure Canons, ſuppoſing Maſter <hi>Hide</hi> to be no Archdeacon, they will in all amount to the number of ſeventeen perſons, whereunto adding the three Suppliants for Archdeacons, who have as vet ne<g ref="char:EOLhyphen"/>ver had Patents <hi>viz,</hi> Maſter <hi>Barlo</hi> in Warwickſhire, and Maſter <hi>Stevens</hi> in Hertford, and Maſter <hi>Thomas Greene</hi> in Suffolke, by the
+<pb n="22" facs="tcp:155571:14"/>old Diviſion Norff. by new; you ſee we may accompt upon juſt nineteene or twenty Chapter-men now actually living, whereas at firſt Erection of the Chapter there were never more (as you ſee) then twenty two or twenty three at moſt: And thus you have the exact account of the Chapter as now it ſtands, wherewith if you reſt not ſatisfied, but deſire either to make more Canons (as my Lord ſeemes to doe) or to fill up the number of thoſe that ale dead, Wee can ſuggeſt unto you for the preſent only theſe that follow for that purpoſe, becauſe we cannot have an exact accompt from all the Shires what men are now reſiding therein, much leſſe can we make any probable conjecture how to ſix any one man in any one County of <hi>England,</hi> as times now ſtand, to officiate therein, and ſo we ſhould not at this time have thought of filling up the vacant places yet becauſe you there have that cogitation, and deſire to know whom we here in towne thinke fitting for that purpoſe, wee have reflected on theſe under-written.</p>
+               <p>For Vicars Generall.</p>
+               <p>Maſter <hi>Blaclo</hi> Mr. <hi>Holden,</hi> Mr. <hi>Harrington,</hi> Mr. <hi>Fitton,</hi> Mr. <hi>Her<g ref="char:EOLhyphen"/>bert,</hi> Mr. <hi>Hide,</hi> Mr. <hi>Drury</hi> Mr. <hi>Clifford,</hi> Mr. <hi>Laborne,</hi> Mr. <hi>Barquer.</hi>
+               </p>
+               <p>For Archdeacons.</p>
+               <p>Maſter <hi>Iohn Berrington,</hi> Mr. <hi>Stevens,</hi> Mr. <hi>Barlo,</hi> Mr. <hi>Edward Hughes.</hi> Mr <hi>Green,</hi> Mr. <hi>Coffin,</hi> Mr. <hi>Sands,</hi> Mr. <hi>Laurence,</hi> Mr. <hi>Bru<g ref="char:EOLhyphen"/>arton,</hi> Doctor <hi>Bloudſton,</hi> Mr. <hi>Faulconer,</hi> Mr. <hi>Ireland,</hi> Mr. <hi>Iennings,</hi> Mr. <hi>Curtes,</hi> Mr. <hi>Cattericke,</hi> Mr. <hi>Clampit,</hi> Mr. <hi>Woodward,</hi> Maſter <hi>Cheake.</hi>
+               </p>
+               <p>For Canons.</p>
+               <p>Maſter <hi>Carleton,</hi> Mr. <hi>Everard,</hi> Mr. <hi>More,</hi> Mr. <hi>Knightley,</hi> Maſter <hi>Warham</hi> Mr. <hi>Polewheele,</hi> Mr. <hi>Carre,</hi> Mr. <hi>Todhill,</hi> Mr. <hi>Bradſhawe, Laſſels,</hi> Mr. <hi>Warnford,</hi> Mr. <hi>Hall,</hi> Mr. <hi>Worthington,</hi> Mr. <hi>Marten,</hi> Mr. <hi>Lutlo,</hi> Mr. <hi>Turbervile,</hi> Mr. <hi>Ellice,</hi> Mr. <hi>Weekes,</hi> Mr. <hi>Harriſon,</hi> Mr. <hi>Page,</hi> Mr. <hi>Skinner,</hi> Mr. <hi>Sale,</hi> Mr. <hi>Totty,</hi> Mr. <hi>Tuſtall.</hi>
+               </p>
+               <p>Above all things you muſt recommend ſecrecie if you reſolve upon Maſter <hi>Herbert,</hi> that his Lady come not to the notice of his being choſen into any Office that will require reſort to him, or his going abroad.</p>
+               <pb n="23" facs="tcp:155571:14"/>
+               <p>Maſter <hi>Carre</hi> however not in <hi>England,</hi> is a man ſo conſiderable, that above all others not already of the Chapter, it were fit he were made one thereof, and however I put him amongſt Canons only, yet if his continuall abſence admit of higher place, ſurely his mer<g ref="char:EOLhyphen"/>rits will claime it.</p>
+            </div>
+            <div type="considerations">
+               <head>CONSIDERATIONS.</head>
+               <p>COnſiderations about filling up the Chapter.</p>
+               <p>The maine to appoint ſuch Of<g ref="char:EOLhyphen"/>ficers in ſuch Diviſions, as pro<g ref="char:EOLhyphen"/>bably ſhall reſide therein, or at leaſt conveniently may once a yeare repaire thereto to comply with their Officers.</p>
+               <p>Then perſiſting in the laſt Di<g ref="char:EOLhyphen"/>viſion, which you will find ta<g ref="char:EOLhyphen"/>ken out of Maſter <hi>Records.</hi>
+               </p>
+               <p n="1">The firſt Vicar is Maſter <hi>Ham<g ref="char:EOLhyphen"/>mon</hi> in <hi>Cornwall.</hi>
+               </p>
+               <p>Note that he is alſo Archdea<g ref="char:EOLhyphen"/>con of the Shires, <hi>Hunt.</hi> and <hi>Wiltſhire;</hi> now to keep the forme of this laſt Diviſion, you muſt either adde <hi>Glouceſter</hi> ſhire to his Archdeaconate, or elſe incurre a greater confuſion in altering the whole frame of this Divi<g ref="char:EOLhyphen"/>ſion.</p>
+               <p>And here I may not omit to let you know, that maſter <hi>Ham.</hi> hath often deſired to reſigne up his Archdeaconate in the two Shires above ſaid, for what cauſe I know not; but admit hee may be intreated to keepe them, and to accept of <hi>Gloceſter</hi> ſhire there<g ref="char:EOLhyphen"/>unto;</p>
+               <p>Yet you muſt caſt for two Archdeacons more, <hi>viz.</hi> of <hi>So<g ref="char:EOLhyphen"/>merſet, Dorſet. Cornwall</hi> and <hi>Devon.</hi>
+               </p>
+               <p>For however maſter <hi>Manger</hi> is living Archdeacon of <hi>Somerſet</hi> and <hi>Dorſet</hi> ſhire yet now a bedrid man in <hi>Wales,</hi> hee had need of a Coadjutor at leaſt. The men living in, or at leaſt acquainted, &amp; frequenting thoſe parts are,</p>
+               <p>Maſter <hi>Victor,</hi> Mr. <hi>Martine,</hi> Mr. <hi>Woodward,</hi> the two Brothers <hi>Warhams,</hi> Mr. <hi>White</hi> Mr. <hi>Hames,</hi> Mr. <hi>Browne,</hi> Mr. <hi>Newman.</hi>
+               </p>
+               <p n="2">The ſaid Vicar according to this laſt Diviſion, of <hi>London, Etcae't;</hi> will be the man of moſt conſideration in this affaire, as being (being neere to the Dean) hee through whoſe hands the greateſt part of the Clergies af<g ref="char:EOLhyphen"/>faires will run, both for recei<g ref="char:EOLhyphen"/>ving the Prieſts new commers,
+<pb n="26" facs="tcp:155571:15"/>and dealing <hi>With Perſons of greatoſt ranke about the Towne.</hi> This was Mr. <hi>Lahetans</hi> charge, and ſince Mr. <hi>Muſcots,</hi> and is now (by his abſence, and being in a charge incompatible there<g ref="char:EOLhyphen"/>with) vacant.</p>
+               <p>If you thinke of fixing in this place any of the Chapter-men now about the Towne, you will finde few to afford you choyce, for Mr. <hi>Herbert</hi> is already ſup<g ref="char:EOLhyphen"/>pliant to the ſixth Vicariate, and happily may bee changed into the fifth, as being the onely <hi>Brit<g ref="char:EOLhyphen"/>ton</hi> that we can thinke of except Maſter <hi>Humphrey Hughes,</hi> to be Vicar Generall of <hi>Wales Etcae't,</hi> Mr. <hi>Hamman</hi> you ſee is already fixed, Mr. <hi>Webſter</hi> is Deane, here onely remaine of Chapter-men Mr. <hi>Curtes,</hi> and Mr. <hi>Hoard</hi> now about the Towne. ſo that you muſt in this point goe I believe by gheſſe who is likely of all thoſe learned and grave Chap<g ref="char:EOLhyphen"/>termen now at <hi>Paris</hi> or <hi>Doway</hi> to fixe in Towne when times come favourable, and thoſe men you know are Maſter <hi>Blacklo,</hi> Mr. <hi>Harrington,</hi> Mr. <hi>Barquer</hi> Mr. <hi>Holden,</hi> Mr. <hi>Filton,</hi> Mr. <hi>Hide,</hi> Mr. <hi>Clifford,</hi> Mr. <hi>Laborne,</hi> Maſter <hi>Drury.</hi>
+               </p>
+               <p>Now admit you fixe upon one of theſe abroad, for the Vicar Generall about <hi>London;</hi>
+               </p>
+               <p>You are then to finde him three Archdeacons more, for by this laſt diviſion there are foure Archdeacons belonging to this Vicurate, ſo that making the Vi<g ref="char:EOLhyphen"/>car one of theſe foure Archdea<g ref="char:EOLhyphen"/>cons, as is ſuppoſed you will, there remaine three Archdeacons to be choſen under him.</p>
+               <p>With whom they ſhall be moſt ſerviceable for the cómon good, as being moſt upon the eye of the world, and ſtay of our com<g ref="char:EOLhyphen"/>mon affaires, you muſt reſolve.</p>
+               <p>The Prieſts about the towne are now ſo few, that they ſcarce make a number, eſpecially thoſe that are Chapter-men, and not already deputed otherwaies, <hi>viz.</hi> Maſter <hi>Curles</hi> Mr. <hi>Howard.</hi>
+               </p>
+               <p>The Prieſts abroad you know. The Prieſts (not Chaptermen) in towne to bee thought on for this charge are ſew or none, one<g ref="char:EOLhyphen"/>ly Mr. <hi>Worthington,</hi> though hee was one moved to bee made of the Chapter, and it was refuſed, becauſe hee was as ſervant to <hi>Doway</hi> being Procurator, and ſo not to governe.</p>
+               <p>Note, that of the three Arch<g ref="char:EOLhyphen"/>deacons, Maſter <hi>Lane</hi> muſt bee one, for he hath a long time ſup<g ref="char:EOLhyphen"/>plyed Mr. <hi>Theli<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> place as Arch<g ref="char:EOLhyphen"/>deacon of <hi>Suſſex,</hi> and ſo to keep Order of this ſecond Diviſion, muſt have added unto his di<g ref="char:EOLhyphen"/>ſtrict
+<pb n="27" facs="tcp:155571:15"/>
+                  <hi>Kent</hi> alſo; ſo his Patent muſt run Archdeacon of <hi>Suſſex</hi> and <hi>Kent.</hi>
+               </p>
+               <p n="3">The third Vicar of <hi>Bedford, Huntington</hi> Elect, is in vertue al<g ref="char:EOLhyphen"/>ready, and in repute, M. <hi>Herbert,</hi> and conſequently Archdeacon of two Counties therunto belo<g ref="char:cmbAbbrStroke">̄</g>ging.</p>
+               <p>So then you muſt provide for him two Archdeacons more out of theſe Prieſts following (you will take ſuch as live in thoſe parts) they are Maſter <hi>Thomas Greene,</hi> Mr. <hi>Weekes,</hi> Mr. <hi>Everard,</hi> Mr. <hi>Carleton,</hi> Mr. <hi>Henry Black<g ref="char:EOLhyphen"/>lo.</hi>
+               </p>
+               <p>
+                  <hi>In Norfolke and Suffolke.</hi>
+               </p>
+               <p>In <hi>Cambridge</hi> elect, <hi>Elie, Hoh, Marchland,</hi> or thereabouts, none at all.</p>
+               <p n="4">The fourth Vicar of <hi>Oxford Buckingham.</hi> Elect, which was Doctor <hi>Boſvile,</hi> and now muſt be ſupplyed by whom you think good, either of thoſe named in an other paper for Vicars, or of ſome of theſe following Prieſts living in that Diviſion and hath under him foure Archdeacons, but himſelfe being to be one of the foure, you muſt caſt for three more, and if you take the Prieſts living in thoſe Counties they are theſe that follow.</p>
+               <p>Maſter, <hi>Button</hi> Archdeacon al<g ref="char:EOLhyphen"/>ready of <hi>Stafford</hi> and <hi>Cheſhire,</hi> but ſo old, that he had need of a Coadjutor, with power to ſuc<g ref="char:EOLhyphen"/>ceed him.</p>
+               <p>Maſter <hi>Barlo,</hi> Mr. <hi>Bruerton,</hi> Mr. <hi>Venables,</hi> Mr. <hi>Lawrence,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Suttlo,</hi> Mr. <hi>Turbervill,</hi> Ma<g ref="char:EOLhyphen"/>ſter <hi>Iennings,</hi> deſigned one for a Reader, a very able man, but young; Maſter <hi>Humphrey Hattlo,</hi> Mr. <hi>William Ellis.</hi>
+               </p>
+               <p>Theſe are in <hi>Worceſter Warwick Stafford, Cheſhire:</hi> in <hi>Northton</hi> &amp; <hi>Leiceſter</hi> ſhire are Mr. <hi>Faulconer,</hi> Mr. <hi>Cheeke,</hi> Mr. <hi>Edward Hughes.</hi>
+               </p>
+               <p>
+                  <hi>Oxford</hi> and <hi>Bucks</hi> are the Counties perhaps moſt fit for theſe Vicars diſtrict as hee is Archdeacon.</p>
+               <p n="5">The fiſt Vicar, who is he of <hi>Wells</hi> Elect, hath under him three one<g ref="char:EOLhyphen"/>ly Archdeacons, whereof him<g ref="char:EOLhyphen"/>ſelfe ſtanding for one, you are to thinke onely of two Archdeacons more for that Diviſion.</p>
+               <p>For the Vicar himſelfe there occurres none fitter then either Mr. <hi>Herbert,</hi> (if he be not depu<g ref="char:EOLhyphen"/>ted Vicar in <hi>Huntington</hi> Elect) or Mr. <hi>Humphrey Hughes</hi> now Archdeacon of North-<hi>Wales.</hi>
+               </p>
+               <p>For two Archdeacons under him, beſides, if you chooſe them out of Prieſts in thoſe parts, they are theſe following.</p>
+               <p>Maſter <hi>Stevens</hi> living in <hi>Hert<g ref="char:EOLhyphen"/>ford,</hi>
+                  <pb n="26" facs="tcp:155571:16"/>Mr. <hi>Vaughan,</hi> Mr. <hi>Stephen Pue,</hi> Mr. <hi>Permane,</hi> Mr. <hi>Williams,</hi> Mr. <hi>Iohn Barrington,</hi> Maſter <hi>Iohn Powell,</hi> Mr. <hi>Perkins,</hi> Mr. <hi>Thomas Street,</hi> Mr. <hi>Iohn Holland Remble,</hi> Maſter <hi>Barnes Lay,</hi> Mr. <hi>William Pue,</hi> Mr. <hi>Francis Greene,</hi> chiefe man, Maſter <hi>Elliets,</hi> Mr. <hi>Morris,</hi> Mr. <hi>Priſes,</hi> two of them.</p>
+               <p>Maſter <hi>Stevens</hi> and Mr. <hi>Bar<g ref="char:EOLhyphen"/>rington</hi> held the two fitteſt.</p>
+               <p n="6">The ſixth Vicar, who is of <hi>Yorke, Darby, Nottingham, Lin<g ref="char:EOLhyphen"/>colne,</hi> and <hi>Rutland,</hi> and whoſe place is vacant, hath under him only two Archdeacons, whereof himſelfe being one, you are to thinke of one more onely for that Diviſion.</p>
+               <p>The men fit to be thought on for this Vicariate, if you take the Prieſts living in thoſe parts are, Maſter <hi>Falconer,</hi> Mr. <hi>Coffine.</hi>
+               </p>
+               <p>The Archdeacon may bee one of thoſe names in the foure Vi<g ref="char:EOLhyphen"/>cars diſtrict, Mr. <hi>French,</hi> Mr. <hi>Ar<g ref="char:EOLhyphen"/>nold,</hi> Mr. <hi>Fathering,</hi> Mr. <hi>Edward Hughes,</hi> Mr. <hi>Iackſon,</hi> Mr. <hi>Wor<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hington.</hi>
+               </p>
+               <p n="7">The ſeventh Vicar who is hee<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of <hi>Lancaſhire, Northumberland, &amp;c.</hi> Maſter <hi>Trollop</hi> ſtill living, but ſo old, as he had need of a Coadjutor with power to ſuc<g ref="char:EOLhyphen"/>ceed him, which whether it may not be Mr. <hi>Holden</hi> conſidering who is of thoſe parts, or maſter <hi>Lab.</hi> who is likewiſe of the ſame you may there adviſe.</p>
+               <p>This Vicar hath under him three Archdeacons, himſelfe be<g ref="char:EOLhyphen"/>ing one; you are to appoint one more onely, Mr. <hi>Redman</hi> being Archdeacon in <hi>Lancaſhire</hi> al<g ref="char:EOLhyphen"/>ready.</p>
+               <p>The Prieſts in the Countrey moſt conſiderable, for Vicars or Archdeacons, are theſe that fol<g ref="char:EOLhyphen"/>low.</p>
+               <p>In <hi>Northumberland</hi> and the <hi>York</hi>-ſhire diſtrict.</p>
+               <p>Mr. <hi>Catricke,</hi> Mr. <hi>Walker,</hi> Do<g ref="char:EOLhyphen"/>ctor <hi>Blunderſton,</hi> Maſter <hi>Wivell,</hi> Mr. <hi>Nearby,</hi> Mr. <hi>Iohn Laſſells,</hi> Maſter <hi>H. Greene,</hi> Mr. <hi>William Conſtable,</hi> Mr. <hi>Hodgeſon,</hi> Maſter <hi>Strickland;</hi> one his name Prebend of <hi>Yorke</hi> Minſter.</p>
+               <p>In <hi>Lancaſhire,</hi> there is already Archdeacons, Maſter <hi>Redman;</hi> too beſides him are, Maſter <hi>Sands</hi> principally, Mr. <hi>Totty,</hi> Mr. <hi>Sale,</hi> Mr. <hi>Thomas Worthington,</hi> Maſter <hi>Tunstall.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <pb n="29" facs="tcp:155571:16"/>
+               <opener>
+                  <salute>Right Reverend my very good Lord,</salute>
+               </opener>
+               <p>Iſend you now according to my promiſe laſt week ſuch Copies of Patents as you deſired of Canons; and ſuch other of Vicars and Archdeacons, and Rurall Deanes as you may have need of for compleating the Chapter with ſuch light into that affaire as in theſe darke and confuſed times I could procure.</p>
+               <p>I muſt not omit to certifie your Lordſhip, that I have inſerted Mr. <hi>Peter Warnefords</hi> name amongſt thoſe who are ſuggeſted here to be made Canons, and I ſhould humbly deſire he may be made ſuch for one maine reaſon above others, that I have a probable hope hereby to ſecure the Chapter of the holy Thorne after his deceaſe: and that is a Jewell which I am ſure your Lordſhip values at a high rate,<note place="margin">A pretious Re<g ref="char:EOLhyphen"/>lique.</note> as alſo doe all others that know thereof.</p>
+               <p>If the light I have given in the choice of ſuch men as may com<g ref="char:EOLhyphen"/>pleat the Chapter be ſufficient to ſatisfy your Lordſhip of the me<g ref="char:EOLhyphen"/>rits of the men ſuggeſted: Perhaps it may not be a miſſe to thinke of even in theſe uncertaine times, if for no other reaſon then to pre<g ref="char:EOLhyphen"/>vent mortality, and that the Chapter might have the fuller power in its compleatneſſe in caſe your Lordſhip ſhould dy; as we that are many yeares younger cannot ſay but wee may dye very ſuddenly, and truly but for this only reaſon perhaps it were better deferre the filling up the Chapter till wee better times expected; yet ſince I writ thoſe incloſed Papers I have refle<g ref="char:EOLhyphen"/>cted that perhaps it may not bee amiſſe to compleat the Chap<g ref="char:EOLhyphen"/>ter with all ſpeed that may be, for however we cannot ſuggeſt unto your Lordſhip all our men in every County, yet I am confident we have named thoſe that are fitteſt for ſuch places in each Coun<g ref="char:EOLhyphen"/>ty, and ſuch as are perſoually beſt known I beleive to your Lord<g ref="char:EOLhyphen"/>ſhip for the moſt part of them.</p>
+               <p>As I wrote laſt weeke that Mr. <hi>Fittons</hi> repaire to <hi>England</hi> would not be neceſſary though he be choſen Coadjutor to Mr. <hi>Webſter, cum jure miſſionis,</hi> ſo I write againe now upon better grounds, for God be thanked Mr. <hi>Webſter</hi> mends in his health: but admit he ſhould fall back and dy, yet even in that caſe per<g ref="char:EOLhyphen"/>haps Mr. <hi>Fitton</hi> would moſt probably get our Chapter confirmed in his perſon of Deane, and this not onely through his being
+<pb n="30" facs="tcp:155571:17"/>knowne and liked well of in Rome, but farther through his per<g ref="char:EOLhyphen"/>ticular relation with Lord <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> who perhaps would con<g ref="char:EOLhyphen"/>duce much towards confirming our Chapter, and Mr. <hi>Fittons</hi> per<g ref="char:EOLhyphen"/>ſon and the Confirmation of our Chap: being the main thing we ayme at, moves many to thinke, that we were better chooſe Mr. <hi>Fitton</hi> Coadjutor then a ſtronger man; becauſe if in his per<g ref="char:EOLhyphen"/>ſon we get the Chapter confirmed, we can eaſily chooſe a Coad<g ref="char:EOLhyphen"/>jutor to him in caſe he ſhould not grow ſtrong; And ſo by this means we effect our greateſt affaire and deſire. The reſt is that I am, my Lord,</p>
+               <closer>
+                  <signed>Your moſt humble ſervant, <hi>F: H:</hi>
+                  </signed>
+               </closer>
+               <argument>
+                  <p>Mr. <hi>Herbert</hi> upon ſight of theſe laſt Letters from being moved by Mr. <hi>Webſter</hi> to accept of the place makes anſwer, that if Mr. <hi>Fitton</hi> cannot ſupply the place, rather then give offence unto his Brethren, he is content to conforme to the Votes of his Brethren.</p>
+               </argument>
+            </div>
+         </div>
+         <div type="correspondence_concerning_Lord_Inchiquine">
+            <pb n="31" facs="tcp:155571:17"/>
+            <div type="letter">
+               <head>A Letter from the Earl of <hi>Warwick,</hi> and ſome Members of the houſe of COMMONS: To the Honorable, <hi>William Lenthall</hi> Eſquire; Speaker of the ſaid Houſe.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>VVE have thought fit to acquaint you with ſome Informations that we have lately received, concerning the affairs of <hi>Ireland,</hi> ſuch as we ſuppoſe you will think fit to be imparted to the Houſe. The In<g ref="char:EOLhyphen"/>habitants of the <hi>Lath</hi> of Saint <hi>Auguſtine</hi> in the county of <hi>Kent,</hi> out of their charitable commiſeration of the miſeries of the Proteſtants in <hi>Ireland,</hi> (being inabled thereunto by an Ordinance of Parliament). did in a ve<g ref="char:EOLhyphen"/>ry large manner contribute and gather Five hundred quartets of Wheat, and other Grain; and accordingly ſent it over to <hi>Cork,</hi> imbarqued in a Veſſell called the <hi>Proſperous</hi> of <hi>Sandwich,</hi> whereof one <hi>Thomas Baſſet</hi> was Maſter; who accordingly carried the ſame unto <hi>Cork,</hi> and delivered it unto the hands of the Lord <hi>Inche<g ref="char:EOLhyphen"/>quine,</hi> according to an Order of the Committee for Iriſh affairs: Now the ſaid Veſſell being returned, the Maſter thereof makes this report, which we with all care and diligence have ſent up.</p>
+               <p n="1">1. Firſt, That the Lord <hi>Inchequine</hi> was ſo far from diſtributing the ſaid Grain, according to the intention of the Parliament, and the Doners, (who did intend it as a free Gift, for the relief of the poor Proteſtants in <hi>Ireland</hi>) that he did ſeize it, and ſell it at a very dear rate, to any that would buy it, detaining it from thoſe to whom it was given.</p>
+               <pb n="32" facs="tcp:155571:18"/>
+               <p n="2">2. That he did not onely deprive them of the inten<g ref="char:EOLhyphen"/>ded Charity, but alſo oppreſt them, with Billetting of two Regiments of Souldiers, that are ſince ſent over, (whereof the ſaid Mr. <hi>Baſſet</hi> was an eye-witneſſe) under the command of Sir <hi>Charles Vavaſour,</hi> and Sir <hi>John Pawlet,</hi> to the Port of <hi>Briſtoll,</hi> to ſerve here againſt the Parliament.</p>
+               <p n="3">3. That the Lord <hi>Inchequine</hi> did preſſe the ſaid Ma<g ref="char:EOLhyphen"/>ſter, <hi>Thomas Baſſet,</hi> to carry over more Souldiers to the Port of <hi>Briſtoll,</hi> which <hi>Baſſet</hi> did colourably undertake, and attended ſeverall dayes to receive the Souldiers aboard of him, till ſuch time as he met with a conve<g ref="char:EOLhyphen"/>nient opportunity to make his eſcape, which he deſired, and now at laſt obtained.</p>
+               <p n="4">4. The ſaid <hi>Thomas Baſſet</hi> doth report upon ve<g ref="char:EOLhyphen"/>ry good grounds, That there are further intentions of raiſing great Forces of the Iriſh Rebells, to come over to ſerve againſt the Parliament; and that for preſent there are ready two Regiments, under the command of Sir <hi>Hardes Waller,</hi> and four Regiments of the Lord <hi>Inchequines,</hi> and ſix Troops of Horſe under the command of the Earl of <hi>Cork;</hi> all which are to be liſt<g ref="char:EOLhyphen"/>ed under the Duke of <hi>York,</hi> to maintain this unnaturall War againſt the Parliament and Kingdom.</p>
+               <p>Now that it may appear that this Information of <hi>Thomas Baſſet</hi> is not conjecturall, he is ready to teſtific all this upon Oath; And for preſent we have here ſent up divers Inſtruments tending to this effect, ſubſcri<g ref="char:EOLhyphen"/>bed by the Lord <hi>Inchiquine,</hi> and delivered to the ſaid <hi>Thomas Baſſet.</hi>
+               </p>
+               <p>By all this you may perceive what a Deſigne there is to bring over both Horſe and Foot of the Iriſh, to war here againſt the Parliament; which might in ſome
+<pb n="33" facs="tcp:155571:18"/>ſort have been prevented, if the winter guard had been timely ſet forth, which we deſire you with all poſſible ſpeed to haſten the winter guard, as hoping it may be a means to prevent, and intercept a great many of the Iriſh Rebells, which daily are in readineſſe to come over. And ſo, with our beſt reſpects remembred unto you, praying God to give a bleſſing to all your pro<g ref="char:EOLhyphen"/>ceedings; We bid you heartily farewell, and reſt</p>
+               <closer>
+                  <dateline>
+                     <hi>Downs,</hi> 
+                     <date>the 7<hi rend="sup">th</hi>. <hi>Novemb.</hi> 1643.</date>
+                  </dateline>
+                  <signed>Your aſſured loving Friend, <hi>Warwick.</hi>
+                  </signed>
+                  <signed>William Strickland, Henry Mildmay, Edw. Boys.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>By the Lord of <hi>Inchiquine,</hi> Commander of His Majeſties Forces in chief for the Province of <hi>Mounſter.</hi>
+               </head>
+               <p>VVHereas <hi>Thomas Baſſet,</hi> Maſter of the <hi>Providence of Sandwich,</hi> Bur. 100 Tuns; arrived here in this Port of <hi>Cork,</hi> with his ſaid Veſſell from <hi>Sandwich,</hi> loaden with Corn and other proviſions for the uſe of His Majeſties
+<pb n="34" facs="tcp:155571:19"/>army; for which he hath here accordingly du<g ref="char:EOLhyphen"/>ly performed in that particular. And further, I do hereby certifie to whom it may or ſhall concern, That I have preſſed the ſaid Veſſell, Maſter, Company, and all other proviſions to her belonging, for His Majeſties ſervice, the Ninth day of this preſent October: And is by me commanded, from the ſaid day to give his attendance untill further order: For which, he the ſaid Maſter may not fail at his perill.</p>
+               <closer>
+                  <dateline>Given under my hand at <hi>Cork,</hi> 
+                     <date>the Ninth day of October, <hi>ut ſupra, Anno Dom.</hi> 1643.</date>
+                  </dateline>
+                  <signed>Jnchiquine.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>By the Right Honorable, the Lord of <hi>Inchiquine,</hi> Commander in chief of his Ma<g ref="char:EOLhyphen"/>jeſties Forces within the Province of <hi>Mounster.</hi>
+               </head>
+               <p>VVHereas <hi>Thomas Baſſet,</hi> Maſter of the good Ship called <hi>The Prosperous of Sand<g ref="char:EOLhyphen"/>wich,</hi> Burthen 100 Tuns or thereabouts, Com<g ref="char:EOLhyphen"/>pany and ſaid Ship, Is imployed by me from this Port of <hi>Cork,</hi> To carry and tranſport
+<pb n="35" facs="tcp:155571:19"/>Souldiers for the Port of <hi>Briſtoll:</hi> And in re<g ref="char:EOLhyphen"/>ſpect I finde him obedient, and ready to per<g ref="char:EOLhyphen"/>form the ſaid ſervice, I do hereby very earneſtly deſire the Admirals of His Majeſties Fleet, and all others imployed in His ſervice, or any other perſon or perſons whatſoever whom it may any way concern, Not any wayes to hin<g ref="char:EOLhyphen"/>der or moleſt him the ſaid Maſter, Ship, or Company, or any of them in their departure from the ſaid Port of <hi>Briſtoll,</hi> or in their in<g ref="char:EOLhyphen"/>tended Voyage into <hi>Wales,</hi> there to lade the ſaid Ship with Coals, to be tranſported from thence to this Harbour, for the relief of this diſtreſſed Garriſon of <hi>Cork;</hi> To which pur<g ref="char:EOLhyphen"/>poſe I have ingaged my ſelf to the ſaid Maſter; and therefore am confident, That my deſire herein ſhall be complyed withall.</p>
+               <closer>
+                  <dateline>Dated under my Hand at the ſaid city of <hi>Cork,</hi> 
+                     <date>this Eighteenth day of October, <hi>Anno Dom.</hi> 1643.</date>
+                  </dateline>
+                  <signed>Jnchiquine.</signed>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>To the Right Honourable, my very good Lord, the Lord <hi>Hopton,</hi> Governour of the City of Briſtoll.</head>
+               <opener>
+                  <salute>MY LORD,</salute>
+               </opener>
+               <p>I Have imployed this Bearer, Mr. <hi>Baſſes,</hi> Maſter of a ſhip, called <hi>The Proſperous</hi> of <hi>Sandwich,</hi> for the tranſ<g ref="char:EOLhyphen"/>porting,
+<pb n="36" facs="tcp:155571:20"/>and carrying over hence in his ſhip, to the Port of Briſtoll ſouldiers for His Majeſties ſervice and have, <hi rend="large">According to His Majeſties Letters, enabling and authorizing mee,</hi> agreed with the ſaid Maſter, that he ſhall be paid fourty pounds <hi>ſter.</hi> for the fraight of his ſhip up<g ref="char:EOLhyphen"/>on her arrivall there; which I conceive to be reaſo<g ref="char:EOLhyphen"/>nable: And therefore do deſire, not only for the pre<g ref="char:EOLhyphen"/>ſent ſervice, but alſo for the future encouragement of others of his quality: That the ſaid money, accor<g ref="char:EOLhyphen"/>ding to my ſaid agreement with him, be forthwith upon his arrivall in that Port punctually paid: Thus, not doubting of the ſpeedy performance hereof, I take leave and remaine</p>
+               <closer>
+                  <dateline>
+                     <hi>Corke</hi> 
+                     <date>18. <hi>Octob:</hi> 1643.</date>
+                  </dateline>
+                  <signed>
+                     <hi>Your Lordſhips affectionated friend, and ſervant,</hi> Inchiquine.</signed>
+               </closer>
+               <postscript>
+                  <p>If it be nor proper for your Lordſhip to order this payment, I beſeech you recommend the Maſter, to whom your Lordſhip thinks fit for his ſatiſ<g ref="char:EOLhyphen"/>faction.</p>
+               </postscript>
+            </div>
+            <div type="letter">
+               <head>A Letter from the Governor of <hi>Plymouth,</hi> To <hi>Mr.</hi> Speaker <hi>of the Honourable Houſe of SIR,</hi> COMMONS, <hi>Theſe preſent in London.</hi>
+               </head>
+               <p>I Have ſent you true Intelligence from Falmouth, one <hi>Iohn German</hi> comming from Perrin doth report, that two ſhips are come to the Pott of Falmouth, <hi rend="large">From the Rebels in Jreland, with-men,
+<pb n="37" facs="tcp:155571:20"/>and ammunition, ſhewing the Kings Broad-ſeale for their ſafety;</hi> And the Ca<g ref="char:EOLhyphen"/>ſtle gave two Peeces of Ordiance, with great joy at their arrivall, with menacing ſpeeches againſt the Par<g ref="char:EOLhyphen"/>liament, and ſwore the Round heads ſhould pay for all: Whereupon ſome Captains of the ſhips, being men of war there, and divers of the Inhabitants peti<g ref="char:EOLhyphen"/>tioned <hi>Iohn Arundel</hi> Eſquire, Governour of Pendennis Caſtle, asking of him, if he would admit entrance to the Rebels; and told him, if he did, many of them would forſake that cauſe, for good could not poſſibly come of it; hee anſwered them, that he would ſend to know His Majeſties pleaſure in that particular; the Rebels that came from Ireland and Falmouth, report, that they look every day for eleven ſhips from Ire<g ref="char:EOLhyphen"/>land, with men and ammunition, and call themſelves the Queens Army; two ſhips were alſo going to re<g ref="char:EOLhyphen"/>lieve the poore Proteſtants in Ireland, and both ſtopt at Falmouth, the one laden with wheat, the other with malt: Likewiſe there is one <hi>Iohn Burlaſſe</hi> Eſquire, a known Papiſt, hath command of a foot Regiment, and governs the Weſt of the County of Cornwall. More<g ref="char:EOLhyphen"/>over, the ſaid <hi>German</hi> reporteth, that to the foreſaid Port of Falmouth, is come four French ſhips, landed ſome Officers and men, being laden with ammunition, and it is thought, that the Officers are gone to the Kings Army; for they preſently tooke poſt from Falmouth, and the ſaid French Officers report, that they expect ten thouſand men to be ſpeedily ſent over out of France to them.</p>
+               <closer>
+                  <signed>Your moſt humble ſervant to command, <hi>Iames Wardlaw.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>Plymouth,</hi> 
+                     <date>
+                        <hi>Novem.</hi> 1. 1643.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
